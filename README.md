@@ -8,7 +8,7 @@
 
 * My name is Pedro Carvalho from Brazil. I've been studing Programation since 2020. 
 * I love Web, because it's amazing and the possibility to learn every day, makes me happy in the choice I've made. 
-* I love football (soccer), whether watching or playing. I also like beer and music, especially both together. In my free time I like to watch movies and series, eventually I like to read books and philosophizing about life.
+* I love football (soccer), whether watching or playing. I also like beer and music, especially both together. In my free time I like to watch movies and series, I like to read books and philosophizing about life.
 
 ## My Skills ⚡
 * HTML
