@@ -1,7 +1,7 @@
 # Pedro Carvalho
 ### Front End Developer
 
-[![Linkedin Badge](https://img.shields.io/badge/pedro_carvalho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-carvalho-079920233)](https://www.linkedin.com/in/pedro-carvalho-079920233//)[![Gmail Badge](https://img.shields.io/badge/-pdrpvp0310@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pdrpvp0310@gmail.com)](mailto:pdrpvp0310@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/pedro_carvalho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrocarvalhodev)](https://www.linkedin.com/in/pedrocarvalhodev//)[![Gmail Badge](https://img.shields.io/badge/-pedro.viniciuscarvalho3@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedro.viniciuscarvalho3@gmail.com)](mailto:pedro.viniciuscarvalho3@gmail.com)
 ---
 
 ## Hello World! 
