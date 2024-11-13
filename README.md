@@ -13,7 +13,7 @@
 ## My Skills ⚡
 * HTML
 * Responsive Design (Mobile First)
-* CSS (Sass, TailWind, styled-components, gridLayout, flexLayout, Material-UI)
+* CSS (Sass, TailWind, styled-components, gridLayout, flexLayout, Material-UI, Radix, shadcn-ui)
 * Javascript (Design Patterns, Tests, ES6/7)
 * ReactJS (Gatsby, Next) / Redux / React Native / Context
 * NodeJS (Express)
